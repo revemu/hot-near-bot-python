@@ -1,2 +1,2 @@
 # hot-near-bot-python
-Automatation Collect Hot from Telegram Here Wallet
+Automation Collect Hot from Telegram Here Wallet
